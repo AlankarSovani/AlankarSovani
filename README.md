@@ -9,7 +9,7 @@
 
 ## Current Projects
 - Animations using Manim library in order to teach / make higher level math more accessible to everyone
-![](\assets\optimized_donut.gif)
+- [Fourier Series Visualizations](http://app.sovani.com)
 ## Contact
 - **Email:** alankar.sovani@gmail.com
 
